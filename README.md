@@ -9,6 +9,7 @@ Tokenized Energy Credits: VoltMarket tokenizes energy credits, allowing producer
 Dynamic Pricing: Real-time pricing is based on supply and demand, ensuring fair transactions for both buyers and sellers.
 Green Energy Incentives: Users are rewarded for producing green energy, promoting sustainable practices across the network.
 User-Friendly Dashboard: The platform includes an intuitive dashboard where users can track energy production, consumption, and trading activity.
+
 Getting Started
 To start using VoltMarket:
 
